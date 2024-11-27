@@ -1,6 +1,8 @@
 # furnitur
 
-A new Flutter project.
+Anggota Kelompok : 
+- Galuh Sischa Panglipury / 124220009
+- Berlian Ariqa Hanna A / 124220016
 
 ## Getting Started
 
